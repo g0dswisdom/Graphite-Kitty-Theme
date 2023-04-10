@@ -1,4 +1,9 @@
-# Graphite-Kitty-Theme
-A graphite-like theme for the Kitty terminal emulator
+<p align="center">
+Graphite Theme for Kitty
+</p>
 
-Inspiration from the Nord kitty theme.
+
+<p align="center">
+Inspiration from the Nord-Kitty theme
+</p>
+<img src="https://raw.githubusercontent.com/g0dswisdom/Graphite-Kitty-Theme/main/Terminal.png" alt="Terminal theme" title="Terminal theme">
